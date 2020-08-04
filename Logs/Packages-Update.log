@@ -1,0 +1,10 @@
+
+=== Sun Mar  1 02:35:35 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.xr.management from version 3.0.3 to 3.0.5
+The following packages were removed:
+  com.unity.package-manager-ui@2.2.0

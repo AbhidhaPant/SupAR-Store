@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "635417274471",
+    "firebase_url": "https://supar-57690.firebaseio.com",
+    "project_id": "supar-57690",
+    "storage_bucket": "supar-57690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635417274471:android:efb1e42772ecd69eacccc2",
+        "android_client_info": {
+          "package_name": "com.fyp.mark7.mapper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635417274471-u7i91c8743hqp74spkjpq9kj0rk8rebr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkzTsIQ7wYjkX6qRACDwVh3ncGIwYNTqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635417274471-u7i91c8743hqp74spkjpq9kj0rk8rebr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
